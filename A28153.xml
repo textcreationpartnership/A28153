@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Words in the word to be read by Friends in the simplicity, felt in the povver, and received in the love.</title>
+            <author>Billing, Edward, 1623-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28153</idno>
+            <idno type="STC">Wing B2904</idno>
+            <idno type="STC">ESTC R38834</idno>
+            <idno type="EEBO-CITATION">18176866</idno>
+            <idno type="OCLC">ocm 18176866</idno>
+            <idno type="VID">106893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1119:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Words in the word to be read by Friends in the simplicity, felt in the povver, and received in the love.</title>
+                  <author>Billing, Edward, 1623-1686.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Edward Byllyng.</note>
+                  <note>Dated: From the Gatehouse-Prison in Westminster, the 9th day of the 3d month 1661.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106893:1"/>
+            <pb n="1" facs="tcp:106893:1" rendition="simple:additions"/>
+            <head>Words in the Word; TO BE <hi>Read</hi> by Friends in the SIMPLICITY, <hi>Felt</hi> in the POVVER, and <hi>Received</hi> in the LOVE.</head>
+            <p>DEar Friends in the Lord, upon and above all the Earth, Let an open, living, large, noble Heart, yea, a bountifull, ſympathizing, gene<g ref="char:EOLhyphen"/>rous Soul poſſeſs, be in, and among you all, towards all in the Lord. In the wrong ground, call nothing your own, [uphold Deceit in none] let the Prudent in God, ſtrengthen the feeble knees, and boldly in the Name of the Lord God, who redeemed <hi>Iſrael,</hi> ſay unto the <hi>preſent,</hi> and yet (for a ſeaſon) <hi>future Priſoners</hi> and <hi>Sufferers</hi> for Chriſt, <hi>it ſhall not be alwayes thus.</hi>
+            </p>
+            <p>In the Life, in the pure Love, which is Infinit, as an intire beautiful flock of Innocents, meet often together, in the Eternal Fear, wholly free from the Fear of Man. At your Meeting, or Parting with each other [<hi>as ye are moved</hi>] in the Life, ſalute each other, with, or with<g ref="char:EOLhyphen"/>out the hand, with, or without words, or any manner of viſible ſign: <hi>in every thing, feel the internal motion:</hi> and let not him, that is, or is not ſaluted, in the leaſt be troubled: but in the pure, good part, receive all that's purely good; And if it be ſo, that thouſands of
+<pb n="2" facs="tcp:106893:2"/> you meet together, and there be no Eternal Motion, [neither occaſion <hi>outwardly</hi> for the uttering of words] Oh! let not the noiſe of an artificial, forced, or formal tool, be ſo much as once ſeen, or heard, in the Temple of our God, which Temple we are. Oh! my moſt dear and intirely Beloved, <hi>male</hi> and <hi>female</hi> Brethren, let all manner of Likeneſſes, Inventions, Imitations and For<g ref="char:EOLhyphen"/>malities in the very Root, Branches, (yea) and Buds thereof, be wholly razed down, caſt out, cut off, and utterly conſumed from among ye: for, from the Lord God I feel a dreadful conſumption is come, and coming upon all men's Words and Forms; yea, every man's Words, already are his own, as well as others burden. Wherefore let all, yea, every individual friend to Truth, ſink down, dig deep, and return in, to within the Gate, the Way, the Croſs, the Stop, the tender Pale, over which any are leap't, In the Name of the living God, let none preſume or dare to ſpeak words (pretending to miniſter in the Aſſembly of God's Heritage) except eternally moved: for words, though never ſo true, ut<g ref="char:EOLhyphen"/>tered out of the Life, from the in-gathered ſtock in the brain, are loathſom to the Seed immortal. Ceaſe ſpeaking when the Power ceaſeth; for that which ad<g ref="char:EOLhyphen"/>deth, as well as that which diminiſheth, is accurſed.</p>
+            <p>Let no man ſay this or that whatſoever it be, is true, or Truth, immediatly to be done, undone, or not done at all; becauſe any man hath ſaid, or ſaith it: [<hi>Let many beware of that Idolatrous Leaven.</hi>] Reſiſt not the pure good Spirit in any; but with the Anointing in your ſelves, Taſt, try, feel and handle all things; that ſo the Noble Plant, the Seed of Life, may not be vailed, captivated, or burdened in any, by any: but in the
+<pb n="3" facs="tcp:106893:2"/> Light ye may be ſeen, and ſee each other in <hi>the Head</hi> to be one entire Piece, <hi>Within the Fold, By the precious Foun<g ref="char:EOLhyphen"/>tain, In the Paſture which is green;</hi> even in that Eternal Spirit which diſcerneth all men, things and voices, there to feed, grow, dye, and live for ever; whoſe meat and drink <hi>in</hi> the Croſs, muſt be <hi>to do the Will of the Father;</hi> feel through, and let the Ax, which is quick and power<g ref="char:EOLhyphen"/>full, be laid <hi>to the very Root</hi> of all falſe begettings: for no Baſtard, though never ſo goodly, ſhall inherit the Kingdom, prepared for the clean begotten in the Father of the Faithful; in whom alone (out of the like<g ref="char:EOLhyphen"/>neſs of any thing, though in it ſelf heavenly) Reſt, Hope and Deliverance is; to whom, of good will, and not by conſtraint, be ſubjection yeelded, by, and in all, that profeſs and know Him to be God over All: who is come, and coming, to burn up the Droſs, to threſh the Wheat, to purge out the Tin, and even to try the pure Grain; but utterly to blow away that Chaff, which calls it ſelf Wheat, and is not.</p>
+            <p>Let all be dreadful to build that again, which already is, or ought to be deſtroyed. Beware, beware of for<g ref="char:EOLhyphen"/>mal Inventions, Coverings or Imitations. Be afraid of Exceſs. Let Moderation be ſeen in you all, in all things.</p>
+            <p>Dear Friends of the Lord, Tradeſmen of all ſorts, buy your Commodities good, in the pure Underſtand<g ref="char:EOLhyphen"/>ing; make, and ſell them in the Fear of the Almigh<g ref="char:EOLhyphen"/>ty: for the Lord greatly beholds your doings. Let nothing be bought or ſold, that's ſuperfluous, or de<g ref="char:EOLhyphen"/>ſtructive to God's Creation: I ſay, ſee that none lick up any part of the old vomit. Ah, dear Lambs! veri<g ref="char:EOLhyphen"/>ly, ye are as Beacons in the Mount, and very great is,
+<pb n="4" facs="tcp:106893:3"/> ought, or may be, your Miniſtry, in your ſeveral Cal<g ref="char:EOLhyphen"/>lings: Wherefore let your Light ſhine bright, without ſpot or blemiſh; to the reaching of the juſt meaſure of God in all; Oh! let not the Nobility in any of ye, be clouded through diſhoneſt gain.</p>
+            <p>Parents and Children, Maſters and Servants, truly know and keep your places <hi>in the Lord.</hi> Maſters, gent<g ref="char:EOLhyphen"/>ly inform, ſweetly admoniſh. Servants and Children, <hi>be ſwift to hear, ſlow to ſpeak,</hi> at leaſt to provoke. Away with Eye-ſervice, Be faithful, be faithful, repine not. Let not the pooreſt of ye in the outward, grudg<g ref="char:EOLhyphen"/>ingly ſay within your ſelves, Why am I made thus, or formed ſo or ſo, as to my outward condition? but continually feed upon, and feel that, which is Lord over all, That did the Will of the Father, who was num<g ref="char:EOLhyphen"/>bred with the worſt, and lived as the meaneſt; yea, He had not of this World whereon to lay his head.</p>
+            <p>Let all who pertain to Truth, abſtain from [<hi>fleſhly Marriages</hi>] trouble not the Congregation of the Righ<g ref="char:EOLhyphen"/>teous therewith: I ſay, not I, but the Lord, Let all beware of that Leaven, or rather great Iniquity; But <hi>Marriage in the Lord, and the Bed Undefiled is honourable.</hi>
+            </p>
+            <p>Finally, Let all who are or have been <hi>truly</hi> con<g ref="char:EOLhyphen"/>vinced, ſwiftly repair in the <hi>Life,</hi> into the form of ſound words: (not by imitation) Beware of, and in the Power for ever reſiſt that Serpent, which ſaith it's <hi>thy Liberty</hi> to ſay <hi>You,</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Sir,</hi> &amp;c. to one perſon, and <hi>Thee</hi> or <hi>Thou,</hi> or <hi>Friend,</hi> to another: for, the <hi>double-tongue,</hi> our God <hi>ſurely hates:</hi> and every Tree, which in the Father is not firm, and truly planted: <hi>Behold,</hi> the ſtorm com<g ref="char:EOLhyphen"/>eth, and he ſhall be plucked up with diſhonourable ſhame. Many are called, but all are not willing to be
+<pb n="5" facs="tcp:106893:3"/> choſen into the Croſs, the Power, the Sword of God.</p>
+            <p>All feel your Root, and ſee if the preſent ground wherein ye ſtand, be purely holy: for lo, the deluge ſwiftly cometh, which ſurely will waſh away all ſandy foundations.</p>
+            <p>Let the pure Loins of the mind in all, be girt up, that ſo the outward body may ſtand upright in the Croſs, in the Faithfulneſs, without Bowing, Fawning or Twiſting under, to, or for any Creature, ſlaviſh fear or gain.</p>
+            <p>Let the <hi>Males</hi> feel the Myſtery of the Hat, and do not therewith diſhonour your <hi>Head,</hi> wear all your Gar<g ref="char:EOLhyphen"/>ments, and ſtand upright, as becometh true men.</p>
+            <p>For ever and ever, bleſſed are the True-hearted <hi>Iſ<g ref="char:EOLhyphen"/>raelites:</hi> but Contempt, far beyond utterance, ſhall be poured forth upon the Double-minded: And every Aſſe ſhall ſurely bear his own burden, and every Fool be fed and clad with the fruit of his own doings.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Gatehouſe-Priſon in</hi> Weſtminſter, <date>the 9th day of the 3d Month, 1661.</date>
+               </dateline>
+               <signed>Edward Byllyng.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="6" facs="tcp:106893:4"/>
+            <head>POST-SCRIPT.</head>
+            <p>ROyal Seed of God, upon the face of the whole Univerſe, over all the World, in the pure, inviſible, undaunted Armor, in Light keep; Trample under, and upon the earthly earth, and all the dark powers thereof, and therein. Fear not, neither believe the Mighty; but in the Almighty walk boldly upon the Seas, ſlight the Waves, regard not the raging Floods of Idolatry, although they have ſworn a Confederacy againſt ye, yet let not the foming forth of their Prophane ſwelling mire and dirt, one jot affright the leaſt Babe in Truth. Feed upon your own Bread, drink your own Cup, (it will be ſweet in the end) Ah! keep within, entirely within, in your own proper Rock, the onely virge-Royal of Safety for all God<g ref="char:punc">▪</g>s Heritage, in this perilous day, come and coming; dwelling therein, and onely therein, ye are and may be ſafe, yea ſecurely hid from the Vulterous eye; but and if ye hunt, or ſtragle forth from under the Eternal Pa<g ref="char:EOLhyphen"/>vilion, ye periſh: Wherefore keep within, even in the con<g ref="char:EOLhyphen"/>temptible manger, where-in ye are at preſent (for tryal) pla<g ref="char:EOLhyphen"/>ced. The truly wiſe man whoſe eye is in his head, will ſee, and ſeel your ſtarre, and ſwiftly repair into your pretious (though contemptible) Inne, as for the implacable fool, <hi>who hates to be reformed,</hi> and <hi>ſaith in his heart, there is no God,</hi> it matters not. O ſeek not acquaintance with any ſtrange fleſh! Ah! be ſubject, be alone ſubject, to that which firſt ſought yee, [to wit the higher Power] Let none of ye exchange Eternal Manna for ſtinking Garlick, or the food of Angels for an <hi>Egyptian</hi> Kindneſs; the thing is ſoon done. Then the ſubtle Hunter may weep, but his tears ſhall not pre<g ref="char:EOLhyphen"/>vail; What want ye? What ſeek ye? Or, What would ye have, that ye have not, ſhall, or may have of me, ſaith the
+<pb n="7" facs="tcp:106893:4"/> Lord God of the diſtreſſed? <hi>Are your Tryals great? your Reward ſhall far tranſcend. Do ye ſow in Tears? ye ſhall reap in Joy; the living God hath ſpoken it.</hi>
+            </p>
+            <p>Ye Royal Prieſthood! Ye Sons and Daughters of the moſt High! Ye bleſſed little Kingdom! in this your day of try-all be not tempted, to touch, or in the leaſt to mix with the un<g ref="char:EOLhyphen"/>clean thing upon any offered tearms whatſoever; Make not, oh! make not any bargain or promiſe with Death, for it and that ſhall vaniſh, and come to nought: O! ſtand ſtill, dwell in the hidden, and ye ſhall ſurely ſee Salvation to the utter<g ref="char:EOLhyphen"/>moſt; But he who with a laviſh Tongue or Pen, gives his Pearl to the Swine, his own, or the Childrens Bread to Dogs, ſhall ſurely be rent and bitten; yea, whoſoever by Perſonal Act, Declaration, Word or Promiſe goes about in the leaſt to ſatisfie, anſwer, or feed the unſatisfiable luſtful demands of the Wicked, famiſheth his own Soul, and betrayes the Truth for which they ſhall greatly ſuffer. <hi>Who ever yet touched Pitch, and was not defiled?</hi>
+            </p>
+            <p>Oh! let all re-deſcend deep into that <hi>ſtill Fountain,</hi> which firſt ſuckled their barren lips, and opened the mouth to praiſe; in that was, and is done the valiant things; that is that which muſt again plow up the clongie Earth, and remove the falſe Heavens.</p>
+            <p>The Waters themſelves they ſhall divide, and the roaring Seas ſhall run on heaps, and dry-ſhod over ye the Faithful (after your refining tryal) ſhall ſurely paſſe; the fury of the Hills ſhall melt down each other, and in the moſt pleaſant Valleys (in the end) ye ſhall ſafely dwell: Wherefore it's not much, if in the Patience free from grudging, even dumb be<g ref="char:EOLhyphen"/>fore the ſhearers, ye watch one hour with the Lord in this <hi>his Day</hi> of great, yea, very great Provocation.</p>
+            <closer>
+               <dateline>Gate-houſe, <date>11th day 3d Month, 1661.</date>
+               </dateline>
+               <signed>E. B.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
